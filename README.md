@@ -3,8 +3,10 @@
 <br><strong>Programming</strong>: Proficient in JavaScript, Java, and Python, with a keen interest in creating interactive applications and tools.<br><strong>Cybersecurity</strong>: Conducting penetration testing to identify and mitigate vulnerabilities in enterprise networks.<br><strong>Game Development</strong>: Exploring 3D graphics and OpenGL, working on beginner-level projects like 3D maze games.<br><strong>Entrepreneurship</strong>: Combining technical and business skills to innovate and grow.
 <br>
 
+
 🚀 <strong>Current Projects</strong>:<br>Designing Script O, my own programming language.<br>Building a beginner-friendly game to teach Python programming to kids.<br>Learning Spring Boot to enhance backend development skills.
 <br>
+
 
 📫 <strong>Let's Connect</strong>:
 <br><strong>Email</strong>: peterkinfe548@gmail.com, peterkinfe360@gmail.com <br><strong>Twitter/X<strong>: @peter_kinfe
