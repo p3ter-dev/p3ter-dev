@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 <strong>About Me</strong><br>Hello! I'm Peter Kinfe, a passionate Software Engineer based in Ethiopia. I love solving complex problems, building innovative solutions, and continuously learning new technologies.<br><br>🌟 <strong>Interests & Expertise</strong>:
+👋 <strong>About Me</strong><br>Hello! I'm Peter Kinfe, a passionate Software Engineer based in Ethiopia. I love solving complex problems, building innovative solutions, and continuously learning new technologies.<br><br>🌟<strong>Interests & Expertise</strong>:
 <br><strong>Programming</strong>: Proficient in JavaScript, Java, and Python, with a keen interest in creating interactive applications and tools.<br><strong>Cybersecurity</strong>: Conducting penetration testing to identify and mitigate vulnerabilities in enterprise networks.<br><strong>Game Development</strong>: Exploring 3D graphics and OpenGL, working on beginner-level projects like 3D maze games.<br><strong>Entrepreneurship</strong>: Combining technical and business skills to innovate and grow.
 <br>
 
