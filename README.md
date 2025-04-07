@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Peter Kinfe
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FF99&lines=Software+Engineer+from+Ethiopia+in+Addis+Ababa+University;Cybersecurity+and+Game+Dev+Explorer;Builder+of+Script+O+Language;Learning+Spring+Boot+%26+Loving+it!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FF99&lines=Software+Engineer++in+Addis+Ababa+University;Cybersecurity+and+Game+Dev+Explorer;Builder+of+Script+O+Language;Learning+Spring+Boot+%26+Loving+it!)](https://git.io/typing-svg)
 
 ---
 
