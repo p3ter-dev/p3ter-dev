@@ -1,6 +1,6 @@
 # 👋 Hello World! I'm Peter Kinfe
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FF99&lines=Software+Engineer+from+Ethiopia;Cybersecurity+and+Game+Dev+Explorer;Builder+of+Script+O+Language;Learning+Spring+Boot+%26+Loving+it!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FF99&lines=Software+Engineer+from+Ethiopia+in+Addis+Ababa+University;Cybersecurity+and+Game+Dev+Explorer;Builder+of+Script+O+Language;Learning+Spring+Boot+%26+Loving+it!)](https://git.io/typing-svg)
 
 ---
 
@@ -59,11 +59,11 @@ Hello! I'm **Peter Kinfe**, a passionate Software Engineer based in Ethiopia. I 
 
 ### 📊 GitHub Stats
 
-![Peter's GitHub Stats](https://github-readme-stats.vercel.app/api?username=peterkinfe&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peterkinfe&layout=compact&theme=radical)
+![Peter's GitHub Stats](https://github-readme-stats.vercel.app/api?username=p3ter-dev&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=p3ter-dev&layout=compact&theme=radical)
 
 ---
 
 ### 👀 Visitor Count
 
-![Visitor Count](https://komarev.com/ghpvc/?username=peterkinfe&style=flat-square&color=brightgreen)
+![Visitor Count](https://komarev.com/ghpvc/?username=p3ter-dev&style=flat-square&color=brightgreen)
