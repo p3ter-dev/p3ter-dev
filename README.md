@@ -1,4 +1,4 @@
-# 👋 Hello World! I'm Peter Kinfe
+# 👋 Hello! I'm Peter Kinfe
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FF99&lines=Software+Engineer+from+Ethiopia+in+Addis+Ababa+University;Cybersecurity+and+Game+Dev+Explorer;Builder+of+Script+O+Language;Learning+Spring+Boot+%26+Loving+it!)](https://git.io/typing-svg)
 
@@ -6,14 +6,14 @@
 
 ## 💫 About Me
 
-Hello! I'm **Peter Kinfe**, a passionate Software Engineer based in Ethiopia. I love solving complex problems, building innovative solutions, and continuously learning new technologies.
+Hello! I'm **Peter Kinfe**, a passionate Software Engineer based in Ethiopia, learning in Addis Ababa University(AAiT). I love solving problems, building innovative solutions, and continuously learning new technologies.
 
 ---
 
 ### 🌟 Interests & Expertise
 
 - 💻 **Programming:** Proficient in JavaScript, Java, and Python — love creating interactive applications and tools.
-- 🛡️ **Cybersecurity:** Conducting penetration testing and securing enterprise networks.
+- 🛡️ **Cybersecurity:** Conducting penetration testing and securing networks.
 - 🎮 **Game Dev:** Exploring 3D graphics and OpenGL — working on beginner-level projects like a 3D maze game.
 - 🚀 **Entrepreneurship:** Merging tech with business to create impact.
 
