@@ -6,7 +6,7 @@
 
 ## 💫 About Me
 
-Hello! I'm **Peter Kinfe**, a passionate Software Engineer based in Ethiopia, learning in Addis Ababa University(AAiT). I love building innovative solutions, and learning new technologies.
+Hello! I'm **Peter Kinfe**, a passionate Software Engineer based in Ethiopia, learning in Addis Ababa University(AAiT). I love learning new technologies.
 
 ---
 
