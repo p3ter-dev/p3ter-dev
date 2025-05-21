@@ -66,7 +66,3 @@ Hello! I'm **Peter Kinfe**, a passionate Software Engineer based in Ethiopia, le
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=p3ter-dev&layout=compact&theme=radical)
 
 ---
-
-### 👀 Visitor Count
-
-![Visitor Count](https://komarev.com/ghpvc/?username=p3ter-dev&style=flat-square&color=brightgreen)
