@@ -59,10 +59,3 @@ Hello! I'm **Peter Kinfe**, a passionate Software Engineer based in Ethiopia, le
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 
 ---
-
-### 📊 GitHub Stats
-
-![Peter's GitHub Stats](https://github-readme-stats.vercel.app/api?username=p3ter-dev&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=p3ter-dev&layout=compact&theme=radical)
-
----
