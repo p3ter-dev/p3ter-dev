@@ -10,14 +10,6 @@ Hello! I'm **Peter Kinfe**, a passionate Software Engineer based in Ethiopia, le
 
 ---
 
-### 🌟 Interests & Expertise
-
-- 💻 **Programming:** Proficient in JavaScript, Java, and Python — love creating interactive applications and tools.
-- 🛡️ **Cybersecurity:** Conducting penetration testing and securing networks.
-- 🎮 **Game Dev:** Exploring 3D graphics and OpenGL — working on beginner-level projects like a 3D maze game.
-
----
-
 ### 🚀 Current Projects
 
 - ✨ Designing **Script O**, my own programming language.
