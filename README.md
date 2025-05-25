@@ -1,6 +1,6 @@
 # Hello! I'm Peter Kinfe
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FF99&lines=Software+Engineer+learning+in+AAiT;Cybersecurity+and+Game+Dev+Explorer;Building+Script+O+Language;Learning+Spring+Boot)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FF99&lines=Software+Engineer+learning+in+AAiT;Cybersecurity+and+Game+Dev+Explorer;Building+Script+O+Language)](https://git.io/typing-svg)
 
 ---
 
