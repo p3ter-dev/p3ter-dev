@@ -12,7 +12,7 @@ Hello! I'm **Peter Kinfe**, a passionate Software Engineer based in Ethiopia, le
 
 ### Current Projects
 
-- Designing **Script O**, my own programming language.
+- Designing **Script O**, my own language.
 - Learning **Spring Boot** to level up backend skills.
 
 ---
