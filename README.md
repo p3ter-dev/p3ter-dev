@@ -23,7 +23,7 @@ Hello! I'm **Peter Kinfe**, a passionate Software Engineer based in Ethiopia, le
 - Twitter/X: [@peter_kinfe](https://x.com/peter_kinfe)
 
 ---
-### 💻 Tech Stack
+### Tech Stack
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
