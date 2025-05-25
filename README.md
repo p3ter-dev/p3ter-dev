@@ -1,38 +1,28 @@
-# 👋 Hello! I'm Peter Kinfe
+# Hello! I'm Peter Kinfe
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FF99&lines=Software+Engineer+learning+in+AAiT;Cybersecurity+and+Game+Dev+Explorer;Building+Script+O+Language;Learning+Spring+Boot)](https://git.io/typing-svg)
 
 ---
 
-## 💫 About Me
+## About Me
 
 Hello! I'm **Peter Kinfe**, a passionate Software Engineer based in Ethiopia, learning in Addis Ababa institute of Technology(AAiT). Love learning new technologies.
 
 ---
 
-### 🚀 Current Projects
+### Current Projects
 
-- ✨ Designing **Script O**, my own programming language.
-- 🧠 Building a fun game to teach Python programming to kids.
-- 🌱 Learning **Spring Boot** to level up backend skills.
-
----
-
-### 📫 Let's Connect
-
-- 📧 Email: [peterkinfe548@gmail.com](mailto:peterkinfe548@gmail.com), [peterkinfe360@gmail.com](mailto:peterkinfe360@gmail.com)  
-- 🐦 Twitter/X: [@peter_kinfe](https://x.com/peter_kinfe)
+- Designing **Script O**, my own programming language.
+- Learning **Spring Boot** to level up backend skills.
 
 ---
 
-### 🌐 Socials
+### Let's Connect
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/peter_kinfe)
+- Email: [peterkinfe548@gmail.com](mailto:peterkinfe548@gmail.com), [peterkinfe360@gmail.com](mailto:peterkinfe360@gmail.com)  
+- Twitter/X: [@peter_kinfe](https://x.com/peter_kinfe)
 
 ---
-
-### 💻 Tech Stack
-
 ### 💻 Tech Stack
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
