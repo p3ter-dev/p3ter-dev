@@ -1,4 +1,4 @@
-# Peter
+# Hi, it's Peter
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FF99&lines=Engineer+learning+in+AAiT;Cybersecurity+and+Game+Dev+Explorer;Building+Script+O+Language)](https://git.io/typing-svg)
 
@@ -6,7 +6,7 @@
 
 ## About Me
 
-Hello! I'm **Peter**, a passionate Engineer based in Ethiopia, learning in Addis Ababa institute of Technology(AAiT). Love learning new technologies.
+Hello! It's **Peter**, a passionate Engineer based in Ethiopia, learning in Addis Ababa institute of Technology(AAiT). Love learning new technologies.
 
 ---
 
