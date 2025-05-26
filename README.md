@@ -1,12 +1,12 @@
-# It's Peter Kinfe
+# Peter
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FF99&lines=Software+Engineer+learning+in+AAiT;Cybersecurity+and+Game+Dev+Explorer;Building+Script+O+Language)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FF99&lines=Engineer+learning+in+AAiT;Cybersecurity+and+Game+Dev+Explorer;Building+Script+O+Language)](https://git.io/typing-svg)
 
 ---
 
 ## About Me
 
-Hello! I'm **Peter Kinfe**, a passionate Engineer based in Ethiopia, learning in Addis Ababa institute of Technology(AAiT). Love learning new technologies.
+Hello! I'm **Peter**, a passionate Engineer based in Ethiopia, learning in Addis Ababa institute of Technology(AAiT). Love learning new technologies.
 
 ---
 
