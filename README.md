@@ -10,16 +10,10 @@ Hello! It's **Peter**, a passionate Engineer based in Ethiopia, learning in Addi
 
 ---
 
-### Current Projects
-
-- Designing **Script O**, my own language.
-- Learning **Spring Boot** to level up backend skills.
-
 ---
-
 ### Let's Connect
 
-- Email: [peterkinfe548@gmail.com](mailto:peterkinfe548@gmail.com), [peterkinfe360@gmail.com](mailto:peterkinfe360@gmail.com)  
+- Email: [peterkinfe548@gmail.com](mailto:peterkinfe548@gmail.com), [peterkinfe360@gmail.com](mailto:peterkinfe360@gmail.com)
 - Twitter/X: [@peter_kinfe](https://x.com/peter_kinfe)
 
 ---
