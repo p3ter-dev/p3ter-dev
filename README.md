@@ -9,8 +9,6 @@
 Hello! It's **Peter**, a passionate Engineer based in Ethiopia, learning in Addis Ababa institute of Technology(AAiT). Love learning new technologies.
 
 ---
-
----
 ### Let's Connect
 
 - Email: [peterkinfe548@gmail.com](mailto:peterkinfe548@gmail.com), [peterkinfe360@gmail.com](mailto:peterkinfe360@gmail.com)
