@@ -4,6 +4,8 @@
 
 ---
 
+![Peter's GitHub stats](https://github-readme-stats.vercel.app/api?username=peterkinfe&show_icons=true&theme=radical)
+
 ### Let's Connect
 
 - Email: [peterkinfe548@gmail.com](mailto:peterkinfe548@gmail.com), [peterkinfe360@gmail.com](mailto:peterkinfe360@gmail.com)
