@@ -1,13 +1,12 @@
 # Hello, it's Peter Kinfe
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FF99&lines=Engineer+learning+in+AAiT.;Fullstack+Web+Dev+Explorer.;Cybersecurity+and+Game+Dev+Explorer.;Digital+Craftsman+in+the+Matrix.;Developing+custom+scripting+Language.)](https://git.io/typing-svg)
----
+
 ### Let's Connect
 
 - Email: [peterkinfe548@gmail.com](mailto:peterkinfe548@gmail.com), [peterkinfe360@gmail.com](mailto:peterkinfe360@gmail.com)
 - Twitter/X: [@peter_kinfe](https://x.com/peter_kinfe)
 
----
 ### Tech Stack
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
@@ -21,5 +20,3 @@
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/Postgres-336791?style=flat-square&logo=postgresql&logoColor=white)
-
----
