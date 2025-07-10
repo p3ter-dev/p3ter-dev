@@ -1,6 +1,6 @@
 # Hello, it's Peter Kinfe
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FF99&lines=Engineer+learning+in+AAiT.;Fullstack+Web+Dev+Explorer.;Cybersecurity+and+Game+Dev+Explorer.;Digital+Craftsman+in+the+Matrix.;Developing+my+own+Script+Language.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FF99&lines=Engineer+learning+in+AAiT.;Fullstack+Web+Dev+Explorer.;Cybersecurity+and+Game+Dev+Explorer.;Digital+Craftsman+in+the+Matrix.;Developing+custom+scripting+Language.)](https://git.io/typing-svg)
 
 ---
 
