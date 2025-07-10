@@ -1,6 +1,7 @@
 # Hello, it's Peter Kinfe
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FF99&lines=Engineer+learning+in+AAiT.;Fullstack+Web+Dev+Explorer.;Cybersecurity+and+Game+Dev+Explorer.;Digital+Craftsman+in+the+Matrix.;Developing+custom+scripting+Language.)](https://git.io/typing-svg)
+
 ---
 
 ### Let's Connect
@@ -9,6 +10,7 @@
 - Twitter/X: [@peter_kinfe](https://x.com/peter_kinfe)
 
 ---
+
 ### Tech Stack
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
