@@ -4,8 +4,7 @@
 
 ### Let's Connect
 
-- Email: [peterkinfe548@gmail.com](mailto:peterkinfe548@gmail.com), [peterkinfe360@gmail.com](mailto:peterkinfe360@gmail.com)
-- Twitter/X: [@peter_kinfe](https://x.com/peter_kinfe)
+- Email: [peterkinfe548@gmail.com](mailto:peterkinfe548@gmail.com)
 ---
 
 ### Tech Stack
