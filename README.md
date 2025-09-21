@@ -5,7 +5,7 @@
 
 - Email: [peterkinfe548@gmail.com](mailto:peterkinfe548@gmail.com)
 
-
+---
 ### Tech Stack
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
