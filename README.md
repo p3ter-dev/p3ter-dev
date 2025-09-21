@@ -1,5 +1,4 @@
-# Peter
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FF99&lines=engineer.;fullstack+web+dev+explorer.;cybersecurity+and+game+dev+explorer.;digital+craftsman.;developing+custom+scripting+language.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FF99&lines=peter.;engineer.;fullstack+web+dev+explorer.;cybersecurity+and+game+dev+explorer.;digital+craftsman.;developing+custom+scripting+language.)](https://git.io/typing-svg)
 ---
 
 ### Let's Connect
