@@ -1,10 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FF99&lines=hi+it+is+peter.;engineer.;fullstack+web+dev+explorer.;cybersecurity+and+game+dev+explorer.;digital+craftsman.;developing+custom+scripting+language.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FF99&lines=hi+it+is+peter+kinfe.;engineer.;fullstack+web+dev+explorer.;cybersecurity+and+game+dev+explorer.;digital+craftsman.;developing+custom+scripting+language.)](https://git.io/typing-svg)
 ---
 
 ### Let's Connect
 
 - Email: [peterkinfe548@gmail.com](mailto:peterkinfe548@gmail.com)
----
+
 
 ### Tech Stack
 
