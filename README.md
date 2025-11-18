@@ -1,12 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FF99&lines=it+is+peter+kinfe.;engineer.;web+dev+explorer.;cybersecurity+and+game+dev+explorer.;digital+craftsman.)](https://git.io/typing-svg)
 ---
 
-### Contact
-
 - Email: [peterkinfe548@gmail.com](mailto:peterkinfe548@gmail.com)
 ---
-
-### Stack
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
